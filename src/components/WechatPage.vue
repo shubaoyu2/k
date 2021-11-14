@@ -1,7 +1,7 @@
 <template>
   <div class="wechat-page">
     <div class="wechat-header">
-      <div class="title" style=" text-align:center;">微信</div>
+      <div class="title" style="text-align:center;">微信</div>
       <div class="trailing">
         <img class="icon-button" src="../assets/search.svg" />
         <img class="icon-button" src="../assets/add.svg"
